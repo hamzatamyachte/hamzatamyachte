@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @hamzatamyachte
 
-a software developer working in The Hague, 🇳🇱 Netherlands.
+<h3 align="center">
+  - 👋 Hi, I’m @hamzatamyachte
+  a software developer working in The Hague, 🇳🇱 Netherlands.
 
 Currently working with [Ldesignmedia](https://ldesignmedia.nl).
-
-<h3 align="center">A passionate frontend developer from India</h3>
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamzatamyachte&label=Profile%20views&color=0e75b6&style=flat" alt="hamzatamyachte" /> </p>
 
